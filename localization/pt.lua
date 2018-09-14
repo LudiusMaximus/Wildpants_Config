@@ -23,6 +23,7 @@ L.Frame = 'Janela'
 L.Enabled = 'Ativar'
 L.CharacterSpecific = 'Preferências Específicas por Personagem'
 --L.ExclusiveReagent = 'Separate Reagent Bank'
+--L.ReagentbankToggle = 'Reagent Bank Toggle'
 
 L.BagFrame = 'Lista de sacos'
 L.Money = 'Dinheiro'

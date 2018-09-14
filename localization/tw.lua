@@ -23,6 +23,7 @@ L.Frame = '框架'
 L.Enabled = '啟用框架'
 --L.CharacterSpecific = 'Character Specific Settings'
 L.ExclusiveReagent = '分離材料銀行'
+--L.ReagentbankToggle = 'Reagent Bank Toggle'
 
 L.BagFrame = '背包列表'
 L.Money = '金錢'

@@ -30,6 +30,7 @@ L.Broker = 'Databroker'
 L.Sort = 'Sortierschaltfläche'
 L.Search = 'Suchsschaltfläche'
 L.Options = 'Optionenschaltfläche'
+L.ReagentbankToggle = 'Materiallager'
 
 L.Appearance = 'Erscheinung'
 L.Layer = 'Ebene'

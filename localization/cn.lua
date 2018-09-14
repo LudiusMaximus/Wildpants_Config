@@ -23,6 +23,7 @@ L.FrameSettingsDesc = '窗口显示设置'
 --L.Enabled = 'Enable Frame'
 --L.CharacterSpecific = 'Character Specific Settings'
 --L.ExclusiveReagent = 'Separate Reagent Bank'
+--L.ReagentbankToggle = 'Reagent Bank Toggle'
 
 L.BagFrame = '启用背包按钮'
 L.Money = '启用货币窗口'

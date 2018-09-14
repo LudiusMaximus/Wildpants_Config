@@ -40,6 +40,7 @@ L.Sort = 'Bouton de tri'
 L.Search = 'Champ de recherche'
 L.Options = 'Affichage des options'
 L.ExclusiveReagent = 'Séparer la banque des composants'
+L.ReagentbankToggle = 'Banque des composants'
 
 L.Appearance = 'Apparence'
 L.Layer = 'Couche'

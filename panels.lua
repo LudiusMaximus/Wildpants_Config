@@ -80,6 +80,10 @@ Addon.FrameOptions = Addon.Options:NewPanel(ADDON, L.FrameSettings, L.FrameSetti
 				if self.frameID ~= 'vault' then
 					row:CreateCheck('money')
 				end
+
+				if self.frameID == 'bank' then
+					row:CreateCheck('reagentbankToggle')
+				end
 			end
 
 			if Config.tabs then

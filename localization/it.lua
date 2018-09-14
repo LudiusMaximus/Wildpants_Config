@@ -23,6 +23,7 @@ L.Frame = 'Finestra'
 L.Enabled = 'Attiva la finestra'
 --L.CharacterSpecific = 'Character Specific Settings'
 --L.ExclusiveReagent = 'Separate Reagent Bank'
+--L.ReagentbankToggle = 'Reagent Bank Toggle'
 
 L.BagFrame = 'Attiva riquadro borse'
 L.Money = 'Riquadro delle monete'

@@ -22,6 +22,7 @@ L.Frame = '창'
 L.Enabled = '애드온 사용'
 L.CharacterSpecific = '캐릭터 개별 설정'
 L.ExclusiveReagent = '재료 은행 별도 표시'
+L.ReagentbankToggle = '재료 은행'
 
 L.BagFrame = '가방 표시'
 L.Money = '소지금 표시'

@@ -23,6 +23,7 @@ L.Frame = 'Окно'
 L.Enabled = 'Включить окна'
 L.CharacterSpecific = 'Настройки для текущего персонажа'
 L.ExclusiveReagent = 'Отдельный банк материалов'
+L.ReagentbankToggle = 'банк материалов'
 
 L.BagFrame = 'Кнопка сумок'
 L.Money = 'Золото'

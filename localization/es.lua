@@ -30,6 +30,7 @@ L.Broker = 'DataBroker'
 L.Sort = 'Botón para ordenar'
 L.Search = 'Botón para buscar'
 L.Options = 'Botón de opciones'
+L.ReagentbankToggle = 'Banco de componentes'
 
 L.Appearance = 'Aparencia'
 L.Layer = 'Estrato'

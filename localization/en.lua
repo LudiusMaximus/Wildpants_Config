@@ -37,6 +37,7 @@ L.Broker = 'Databroker Plugins'
 L.Sort = 'Sort Button'
 L.Search = 'Search Toggle'
 L.Options = 'Options Button'
+L.ReagentbankToggle = 'Reagent Bank Toggle'
 L.ExclusiveReagent = 'Separate Reagent Bank'
 L.LeftTabs = 'Rulesets on Left'
 L.LeftTabsTip = [[
